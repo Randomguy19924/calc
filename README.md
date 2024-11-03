@@ -1,2 +1,1 @@
-# calc
-be rare
+# main.py
